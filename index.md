@@ -38,3 +38,4 @@ Zu Letzt kann nochmal gesagt werden, dass im Aufgabenbereich des heutigen Market
 
 [Die sieben wichtigsten Marketing-Trends 2019](https://www.springerprofessional.de/markenfuehrung/transformation/die-sieben-wichtigsten-marketing-trends-2019/16345548)
 
+[Grundlagen des Marketing](https://books.google.de/books?hl=de&lr=&id=qTSjByScseUC&oi=fnd&pg=PA21&dq=grundlagen+des+marketing+kotler&ots=2aa7X5Ixlj&sig=opFfmdXsYfwcMcFDVEHhBa6J6CQ#v=onepage&q=grundlagen%20des%20marketing%20kotler&f=false) 
