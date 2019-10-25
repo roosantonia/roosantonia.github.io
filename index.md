@@ -32,6 +32,10 @@ Zu Letzt kann nochmal gesagt werden, dass im Aufgabenbereich des heutigen Market
 
 ## Referenzen
 
+Bruhn, M. (2010). Grundbegriffe und -konzepte im Marketing. Wiesbaden: Gabler. 
+
+Bruhn, M. (2019). Marketing - Grundlagen für Studium und Praxis.
+
 [The Emergence of Influencer Marketing](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3010&context=utk_chanhonoproj) 
 
 [Merriam-Webster-Dictonary](https://www.merriam-webster.com/dictionary/enabler)
@@ -41,3 +45,4 @@ Zu Letzt kann nochmal gesagt werden, dass im Aufgabenbereich des heutigen Market
 [Grundlagen des Marketing](https://books.google.de/books?hl=de&lr=&id=qTSjByScseUC&oi=fnd&pg=PA21&dq=grundlagen+des+marketing+kotler&ots=2aa7X5Ixlj&sig=opFfmdXsYfwcMcFDVEHhBa6J6CQ#v=onepage&q=grundlagen%20des%20marketing%20kotler&f=false) 
 
 [Customer Relationship Management Interdisziplinäre Grundlagen der systematischen Kundenorientierung](https://link.springer.com/chapter/10.1007/978-3-322-82387-8_5) 
+
