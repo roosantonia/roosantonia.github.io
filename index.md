@@ -31,5 +31,5 @@ Zu Letzt kann nochmal gesagt werden, dass im Aufgabenbereich des heutigen Market
 
 [The Emergence of Influencer Marketing](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3010&context=utk_chanhonoproj) 
 
-[Ordner](fische.md) 
+[Merriam-Webster-Dictonary](https://www.merriam-webster.com/dictionary/enabler)
 
