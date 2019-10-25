@@ -9,8 +9,11 @@ Auf Grund der Digitalisierung haben sich die Aufgaben des Marketings vor allem i
 
 
 
+
 ## 2. Geschichte des Marketings
 In den 50er Jahren bestand die Hauptaufgabe des Marketings (Marketing 1.0) darin die große Nachfrage an Gütern zu befriedigen, indem der Fokus hauptsächlich auf der Produktion lag. Nach dem zweiten Weltkrieg galt für Unternehmen das Prinzip „mehr ist mehr“. Auf Grund des hohen Interesses an Produkten, wurde nur wenig zusätzliche Öffentlichkeitsarbeit benötigt. In den darauffolgenden zehn Jahren wurde zunehmend Werbung über Radiosender oder im Fernsehen ausgestrahlt und somit zum Kernthema des Marketings in den 60er Jahren. Der Schwerpunkt des Marketings verlagerte sich von der Produktion hin zum Vertrieb. Durch einen immer stärker wachsenden Wettbewerb und einem kürzer werdenden Produktlebenszyklus stieg die Konkurrenz an Werbeagenturen bis in die 90er Jahre sehr stark an. Dieses Überangebot an Werbung führte zur Ignoranz in der Bevölkerung und somit mussten neue Strategien entwickelt werden. Die Erfindung des Internets machte es dem Marketing möglich schneller und einfacher viele Menschen zu erreichen, beispielweise über Emails oder über soziale Netzwerke, wie Instagram und Facebook (Kotler, Armstrong , Wong, & Saunders, 2011, S. 34 ff).
+
+
 
 
 
@@ -20,6 +23,8 @@ Eine weitere Veränderung ist, dass es früher ausreichte, Kunden nur über ein 
 Daraus haben sich zwei Hauptaufgaben für Marketer ergeben - zum einen das Produktmanagement mit zielgruppenangepasster Kommunikation und zum anderen die Markenkommunikation. Die beiden Bereiche können nicht klar voneinander getrennt werden. Zu einer einwandfreien Produktkommunikation gehört ein gutes Verständnis der Bedürfnisse der Kunden und des Marktes. Markenkommunikation hat das Ziel, ein gutes Image bei den Kunden aufzubauen und das Ansehen zu verbessern. Hilfreich ist dabei, wenn Marketingmanager bei der Preisgestaltung sowie beim Design des Produktes mitentscheiden dürfen. Klassische Werbung „above-the-line“, zu welcher beispielsweise die Werbung in Zeitschriften, in Kinos oder im Fernsehen zählt, wird zunehmend durch „below-the-line“ Werbung ersetzt. Diese Art der Kommunikation beinhaltet Sponsoring, Produktplatzierungen oder Eventmarketing.
 Ein weiterer Trend, welcher derzeit sehr stark wächst, ist das sogenannte Influencer- Marketing. Influencer sind Personen, welche in sozialen Netzwerken hohes Ansehen und großen Einfluss haben und somit Werbung zu bestimmten Produkten machen oder Feedback geben. Mit Hilfe dieser neuen Marketingstrategie kann eine hohe Zahl an Kunden in kürzester Zeit erreicht werden. Auf Grund der Nahbarkeit der Influencer fühlen sich Kunden stärker angesprochen als bei der klassischen Produktplatzierung. Es geht heute darum, nicht nur das Produkt zu kaufen, sondern um die Vermittlung eines Lifestyles.
 Eine weitere Veränderung im Marketing ist, dass die sogenannten vier „Ps“ (product, place, promotion, price) sich zu den 3 C ́s (cocreate value, communicate value, capture value) weiterentwickelt haben. Hierbei wird der Kunde auch wieder mehr in den Mittelpunkt gestellt. Daher spricht man auch von Customer Relationship Marketing (CRM). Es geht dabei um die Bewertung der Kunden, sowie um Kundenselektion. Dadurch versucht CRM mehrere Handlungsgebiete zu einem System zu verknüpfen (Woods, 2016).
+
+
 
 
 
