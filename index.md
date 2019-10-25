@@ -26,7 +26,7 @@ Zu Letzt kann nochmal gesagt werden, dass im Aufgabenbereich des heutigen Market
 
 ## Referenzen
 
-[Sponsored: The Emergence of InfluencerMarketing](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3010&context=utk_chanhonoproj)
+[Sponsored: The Emergence of InfluencerMarketing](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3010&context=utk_chanhonoproj) 
 
 [Ordner](fische.md) 
 
