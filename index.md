@@ -27,9 +27,14 @@ Eine weitere Veränderung im Marketing ist, dass die sogenannten vier „Ps“ (
 Abschließend kann man sagen, dass die Aufgaben im Marketing sehr vielfältig sind. Das Marketing arbeitet mit vielen Abteilungen, wie zum Beispiel der Entwicklung, dem Produktmanagement, dem Vertrieb, der IT-Abteilung sowie mit den Kunden eng zusammen. Besonders wichtig ist, dass die Kommunikationskanäle genutzt werden vor allem immer mehr die Onlinekanäle. Im Vergleich zu früher benötigt ein Mitarbeiter im Marketing ein ausgedehntes Datenverständnis, Kenntnisse zu Vernetzung und neusten Technologien. Diese Aufgaben haben sich erst in den letzten zehn Jahren neu entwickelt. Des Weiteren ist es von Vorteil, wenn ein Marketer sich sprachlich gut ausdrücken kann und ein Gespür für Kommunikation hat, da Unternehmen auf Grund der sozialen Medienpräsenz immer mehr in der Öffentlichkeit stehen. Durch den immer schneller werdenden technologischen Wandel, sowie der Steigerung an Komplexität der Aufgaben wird es für Mitarbeiter im Marketing schwieriger schon frühzeitig Marktveränderungen und Trends zu erkennen. Es ist von Vorteil, wenn sich Marketing- Manager auch immer mehr in den verschiedenen Methoden der Marktforschung auskennen, sowie die Kompetenz des strategischen Denkens besitzen.
 Zu Letzt kann nochmal gesagt werden, dass im Aufgabenbereich des heutigen Marketings, es äußerst wichtig ist, sich sehr stark an den Bedürfnissen der Kunden zu orientieren und immer wieder auf Trends zu reagieren, damit sich ein Unternehmen von seinen Konkurrenten positiv anheben kann.
 
+
+
+
 ## Referenzen
 
 [The Emergence of Influencer Marketing](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3010&context=utk_chanhonoproj) 
 
 [Merriam-Webster-Dictonary](https://www.merriam-webster.com/dictionary/enabler)
+
+[Die sieben wichtigsten Marketing-Trends 2019](https://www.springerprofessional.de/markenfuehrung/transformation/die-sieben-wichtigsten-marketing-trends-2019/16345548)
 
