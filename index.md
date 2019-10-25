@@ -1,4 +1,4 @@
-# Vergleich von Marketing Aufgaben- früher und heute
+# Aufgaben des Marketings- Vergleich früher und heute
 
 
 ![Hund](02.jpg) 
