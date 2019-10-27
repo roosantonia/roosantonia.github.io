@@ -2,6 +2,7 @@
 
 
 ![Marketing](03.jpg) 
+[white printing paper with Marketing Strategy text](https://unsplash.com/s/photos/marketing) 
 
 
 ## 1. Einleitung
