@@ -52,3 +52,4 @@ Bruhn, M. (2019). Marketing - Grundlagen für Studium und Praxis.
 
 [Customer Relationship Management Interdisziplinäre Grundlagen der systematischen Kundenorientierung](https://link.springer.com/chapter/10.1007/978-3-322-82387-8_5) 
 
+[white printing paper with Marketing Strategy text](https://unsplash.com/s/photos/marketing) 
