@@ -44,8 +44,6 @@ Bruhn, M. (2019). Marketing - Grundlagen für Studium und Praxis.
 
 Woods, S. (2016).[The Emergence of Influencer Marketing](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=3010&context=utk_chanhonoproj) 
 
-[Merriam-Webster-Dictonary](https://www.merriam-webster.com/dictionary/enabler)
-
 Leitherer, J. (28.12.2018). [Die sieben wichtigsten Marketing-Trends 2019](https://www.springerprofessional.de/markenfuehrung/transformation/die-sieben-wichtigsten-marketing-trends-2019/16345548)
 
 Kotler, P., Armstrong, G., Wong, V., & Saunders, J. (2011). [Grundlagen des Marketing](https://books.google.de/books?hl=de&lr=&id=qTSjByScseUC&oi=fnd&pg=PA21&dq=grundlagen+des+marketing+kotler&ots=2aa7X5Ixlj&sig=opFfmdXsYfwcMcFDVEHhBa6J6CQ#v=onepage&q=grundlagen%20des%20marketing%20kotler&f=false) 
@@ -53,3 +51,6 @@ Kotler, P., Armstrong, G., Wong, V., & Saunders, J. (2011). [Grundlagen des Mark
 Köhler, R. (2001). [Customer Relationship Management Interdisziplinäre Grundlagen der systematischen Kundenorientierung](https://link.springer.com/chapter/10.1007/978-3-322-82387-8_5) 
 
 [White printing paper with marketing strategy text](https://unsplash.com/s/photos/marketing) 
+
+[Merriam-Webster-Dictonary](https://www.merriam-webster.com/dictionary/enabler)
+
