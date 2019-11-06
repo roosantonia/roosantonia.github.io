@@ -50,7 +50,7 @@ Kotler, P., Armstrong, G., Wong, V., & Saunders, J. (2011). [Grundlagen des Mark
 
 Köhler, R. (2001). [Customer Relationship Management Interdisziplinäre Grundlagen der systematischen Kundenorientierung](https://link.springer.com/chapter/10.1007/978-3-322-82387-8_5) 
 
-[White printing paper with marketing strategy text](https://unsplash.com/s/photos/marketing) Abgerufen am 21.10.2019
+[White printing paper with marketing strategy text](https://unsplash.com/s/photos/marketing). Abgerufen am 21.10.2019
 
 [Merriam-Webster-Dictonary](https://www.merriam-webster.com/dictionary/enabler). Abgerufen am 13.10.2019
 
